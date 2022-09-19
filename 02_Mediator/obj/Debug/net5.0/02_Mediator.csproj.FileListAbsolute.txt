@@ -1,0 +1,16 @@
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\bin\Debug\net5.0\02_Mediator.exe
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\bin\Debug\net5.0\02_Mediator.deps.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\bin\Debug\net5.0\02_Mediator.runtimeconfig.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\bin\Debug\net5.0\02_Mediator.runtimeconfig.dev.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\bin\Debug\net5.0\02_Mediator.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\bin\Debug\net5.0\ref\02_Mediator.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\bin\Debug\net5.0\02_Mediator.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\02_Mediator.csproj.AssemblyReference.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\02_Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\02_Mediator.AssemblyInfoInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\02_Mediator.AssemblyInfo.cs
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\02_Mediator.csproj.CoreCompileInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\02_Mediator.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\ref\02_Mediator.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\02_Mediator.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\02_Mediator\obj\Debug\net5.0\02_Mediator.genruntimeconfig.cache
